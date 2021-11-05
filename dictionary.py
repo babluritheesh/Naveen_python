@@ -45,11 +45,13 @@ print(zipping)
 
 employee = {"empid":2543,"name":"raju","department":[1,2,3]}
 print(employee["department"])
+print(employee["empid"])
 
 employee1 = {1:"Ritheesh",2:"Avinash",3:{4:"deekshith",5:"sravan",6:"Mohan"},7:"subbu"}
 
 print(employee1[3])
-
+print(employee1[1])
+print(employee1[2])
 
 
 
