@@ -65,7 +65,8 @@ ans.clear()
 print(ans)
 #del
 
-
+list2 = ["private","public","repository"]
+print(list2)
 
 li = ["washing","clean","floor"]
 if "clean" in li:
